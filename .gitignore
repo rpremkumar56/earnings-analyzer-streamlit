@@ -1,0 +1,30 @@
+# Environment files
+.env
+.env.*
+
+# Python cache and virtual environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+*.venv/
+env/
+*.env/
+
+# Database file (handle persistence separately)
+*.db
+*.sqlite
+*.sqlite3
+
+# Output reports (generated locally)
+output_reports/
+MyReports/ # Or whatever output dir you use locally
+*.docx
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

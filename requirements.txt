@@ -1,0 +1,10 @@
+# requirements.txt
+streamlit
+pandas
+PyMuPDF
+tabula-py
+JPype1
+python-docx
+google-generativeai
+python-dotenv # Good to keep, though secrets are used for deployment
+# Add psycopg2-binary later if switching to PostgreSQL
