@@ -8,3 +8,4 @@ python-docx
 google-generativeai
 python-dotenv # Good to keep, though secrets are used for deployment
 # Add psycopg2-binary later if switching to PostgreSQL
+psycopg2-binary
